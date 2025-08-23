@@ -1,6 +1,5 @@
-### Hi there 👋, I'm zhaojiyuan!
+## Hi there 👋, I'm zhaojiyuan!
 
----
 
 - 🔭 I’m currently working on **AI Agent safety**
 - 🌱 I’m currently learning **RL**
@@ -9,7 +8,6 @@
 - 📫 How to reach me: 23371524@buaa.edu.cn
 - 😄 Pronouns: He/him
 
----
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=lucky-sheltered-boy&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="zhaojiyuan's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
