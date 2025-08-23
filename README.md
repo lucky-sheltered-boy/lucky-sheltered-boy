@@ -2,9 +2,9 @@
 
 ---
 
-- 🔭 I’m currently working on AI Agent safety
-- 🌱 I’m currently learning RL
-- 👯 I’m looking to collaborate on inclusive teams
+- 🔭 I’m currently working on **AI Agent safety**
+- 🌱 I’m currently learning **RL**
+- 👯 I’m looking to collaborate with **inclusive teams**
 - 💬 Ask me about anything!
 - 📫 How to reach me: 23371524@buaa.edu.cn
 - 😄 Pronouns: He/him
