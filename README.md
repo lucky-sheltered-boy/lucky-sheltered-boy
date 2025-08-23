@@ -10,8 +10,10 @@
 - 😄 Pronouns: He/him
 
 ---
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=lucky-sheltered-boy&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="zhaojiyuan's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-sheltered-boy&count_private=true$layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-sheltered-boy&count_private=true" alt="Top Languages" />
 </p>
