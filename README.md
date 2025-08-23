@@ -11,7 +11,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucky-sheltered-boy&show_icons=true&count_private=true&theme=radical" alt="你的GitHub用户名's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucky-sheltered-boy&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="zhaojiyuan's GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-sheltered-boy&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-sheltered-boy&count_private=true$layout=compact" alt="Top Languages" />
 </p>
