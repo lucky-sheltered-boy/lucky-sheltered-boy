@@ -1,8 +1,8 @@
 # Hi 👋, I'm zhaojiyuan
 
-- 🔭 I'm currently working on **AI Agent safety**
+- 🔭 I'm currently working on **AI Agent security**
 
-- 🌱 I'm currently learning **RL**
+- 🌱 I'm currently learning **everything**
 
 - 👯 I'm looking to collaborate on **inclusive teams**
 
